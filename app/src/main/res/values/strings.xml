@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Labsheet_3</string>
+    <string name="sendMessage">sendMessage</string>
+    <string name="button_send">button_send</string>
+</resources>
